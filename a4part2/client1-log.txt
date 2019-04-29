@@ -1,0 +1,21 @@
+Client 3896:Sun Apr 28 22:45:27 2019
+Sun Apr 28 22:45:23 CDT 2019
+
+Client 3896:Sun Apr 28 22:45:31 2019
+    388     388    4090
+
+Client 3896:Sun Apr 28 22:45:35 2019
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+
+Client 3896:Sun Apr 28 22:45:39 2019
+Ending transmission...
+

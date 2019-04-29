@@ -1,0 +1,4 @@
+date
+ls /etc | wc
+ls /etc | head
+end

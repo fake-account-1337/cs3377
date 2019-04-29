@@ -1,0 +1,18 @@
+Client 3944:Sun Apr 28 22:45:28 2019
+Sun Apr 28 22:45:24 CDT 2019
+
+Client 3944:Sun Apr 28 22:45:32 2019
+total 36
+-rwxr-xr-x+ 1 mtl170030 sn 13448 Apr 28 21:20 a4Client1
+-rw-r--r--+ 1 mtl170030 sn  1759 Apr 28 21:20 a4Client1.c
+-rwxr-xr-x+ 1 mtl170030 sn 13632 Apr 28 21:20 a4Server1
+-rw-r--r--+ 1 mtl170030 sn  2463 Apr 28 21:19 a4Server1.c
+-rw-r--r--+ 1 mtl170030 sn    37 Apr  9 14:49 command-file.txt
+-rw-r--r--+ 1 mtl170030 sn    65 Apr 28 17:46 Makefile
+
+Client 3944:Sun Apr 28 22:45:36 2019
+      6       6      70
+
+Client 3944:Sun Apr 28 22:45:40 2019
+Ending transmission...
+
